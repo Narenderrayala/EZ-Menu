@@ -1,0 +1,4 @@
+#Mon Oct 16 11:41:38 EDT 2017
+base.0=C\:\\Users\\naren\\Desktop\\android\\ez-menu\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\Users\\naren\\Desktop\\android\\ez-menu\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

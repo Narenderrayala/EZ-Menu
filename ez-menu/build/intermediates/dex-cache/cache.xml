@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\naren\Desktop\android\ez-menu\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\naren\Desktop\android\ez-menu\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aeacf9785069de9e08f50068c148480c6185b9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\naren\Desktop\android\ez-menu\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0064c4c19ee0545cb1b14f4e2dba20ae06606e52">
+        <dex dex="C:\Users\naren\Desktop\android\ez-menu\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3539440375c3d7baad6313222d3da6de3968bfca\classes.dex" />
+    </item>
+
+</items>

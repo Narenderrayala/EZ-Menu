@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <ListView
+        android:id="@+id/ls1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/view1"
+        />
+
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="184dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ls1"
+        android:layout_marginTop="-70dp"
+        android:text="Total Incl all Taxes"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="184dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ls1"
+        android:layout_marginTop="-70dp"
+        android:layout_toRightOf="@+id/textView13"
+        android:textSize="24sp" />
+
+</RelativeLayout>
